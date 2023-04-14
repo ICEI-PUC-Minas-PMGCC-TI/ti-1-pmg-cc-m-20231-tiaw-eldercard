@@ -4,10 +4,12 @@ Nosso projeto tem o intuito de auxiliar os idosos a adentrarem no mundo da inter
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* André Lemos Menezes
+* Bernardo Ribeiro Godinho
+* Edson Pimenta de Almeida
+* Gustavo Vinicius Elias Souza Silva
+* Patrick Junio Pereira de Oliveira
+* Tales Rocha Moreira
 
 ## Professores responsáveis
 
