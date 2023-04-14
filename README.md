@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10868969&assignment_repo_type=AssignmentRepo)
 # Elder Card
-Nosso projeto tem o intuito de auxiliar os idosos a adentrarem no mundo da internet, ajudando a utilizarem os produtos smarts.
+Trabalho Interdisciplinar: Aplicacões Web | Ciências da Computação | PUC Minas
 
 ## Alunos integrantes da equipe
 
@@ -13,8 +13,8 @@ Nosso projeto tem o intuito de auxiliar os idosos a adentrarem no mundo da inter
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Carlos Augusto Paiva da Silva Martins
+* Rommel Vieira Carneiro
 
 ## Instruções de utilização
 
