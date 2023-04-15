@@ -1,21 +1,23 @@
 # Informações do Projeto
+
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Elder Card
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciências da Computação PUC Minas
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ Os membros do grupo são: 
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+>- André Lemos Menezes
+>- Bernardo Ribeiro Godinho
+>- Edson Pimenta de Almeida
+>- Gustavo Vinicius Elias Souza Silva
+>- Patrick Junio Pereira de Oliveira
+>- Tales Rocha Moreira
 
 # Estrutura do Documento
 
@@ -54,193 +56,135 @@
 
 # Introdução
 
+Contemporaneamente, verifica-se que com o grande avanço da tecnologia no cenário mundial, existem pessoas com dificuldade no seu uso, em sua maioria idosos. Nesse sentido, atualmente um dos maiores meios de inclusão social, comunicação,acesso à informação e entretenimento, ocorre pelo uso de dispositivos inteligentes como celulares, notebooks, TVs etc.., e as pessoas que têm dificuldade em seu uso, tendem a ter uma piora em sua qualidade de vida.
+
+Paralelamente, o uso de dispositivos inteligentes pode trazer uma série de benefícios aos idosos. Em primeiro lugar, esses dispositivos podem melhorar sua comunicação, permitindo que eles se conectem com familiares, amigos e outras pessoas com maior facilidade. Além disso, esses dispositivos podem oferecer acesso a informações importantes, como notícias, serviços de saúde e informações de transporte, facilitando a vida cotidiana e mantendo os idosos atualizados sobre o que está acontecendo ao seu redor. Outro benefício é a possibilidade de maior autonomia e independência, tendo acesso a aplicativos e recursos que facilitam o gerenciamento de suas finanças, o planejamento de suas atividades diárias, e até mesmo a assistência em casos de emergência. Isso pode permitir que eles continuem a viver de forma independente e com qualidade de vida, mesmo com limitações físicas ou mobilidade reduzida.
+
+Logo, é de extrema urgência a criação de um WebApp que instrua os idosos a utilizar esses dispositivos inteligentes de forma que seu uso seja uma ferramenta valiosa para que eles possam usufruir de uma melhor qualidade de vida.
+
+
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+De acordo com o que foi dito, o problema a ser solucionado com este trabalho é a dificuldade do uso de aparelhos inteligentes por idosos.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo geral deste projeto é criar um WebApp com funcionalidades práticas que auxiliem idosos no aprendizado de novas tecnologias em aparelhos inteligentes, de forma a obter uma melhoria substancial em sua qualidade de vida.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Em objetivos específicos, podemos salientar:
+> - Criar vídeos simples e fáceis de acessar para cada app e suas funcionalidades.
+> - Aplicar uma assistência virtual caso a dúvida persista. 
+> - Organizar QR codes  interativos.
+> - Demonstrar usabilidade simplificada para fácil entendimento das funcionalidades do site.
+> - Esquematizar textos grandes para facilitar a leitura de informações.
+> - Propor exercícios de aprendizado.
+> - Articular tutoriais explicando cada funcionalidade do nosso webApp.
+> - Definir login para acompanhar o progresso do aprendizado.
+> - Demonstrar conquistas para cada atividade aprendida.
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Segundo pesquisa desenvolvida por Taiuni Marquine Raymundo na Faculdade de Medicina de Ribeirão Preto (FMRP), foi realizado um estudo com 100 pessoas com +65 anos, e verificou-se que 24% dessas pessoas têm medo de utilizar aparelhos inteligentes, e 40% têm receio quanto a danificar os aparelhos tecnológicos.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Além disso, resultados dessa pesquisa demonstram que é possível superar o medo ao utilizar aparelhos inteligentes, em que quando as pessoas realizaram um curso de inclusão digital notou-se que elas ficaram mais motivadas em aprender sobre as novas tecnologias.
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ainda que muitas pessoas possam se beneficiar com as instruções de aprendizagem do WebApp, o objetivo pensado nesse projeto está nos idosos que sentem dificuldade de se incluírem no meio digital.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+Portanto, foi estabelecido como público alvo, homens e mulheres com mais de 65 anos que sentem necessidade de se comunicar, utilizar serviços de transporte, navegar na internet livremente e se entreterem, através de dispositivos e apps smart.
+
+
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+O esclarecimento exato do nosso problema assim como os tópicos importantes a serem tratados foram definidos através da participação de prováveis usuários usando de entrevistas e observações. Dessa forma, tais conclusões foram levantadas por meio da elaboração de personas e experiências de usuários.
 
 ## Personas, Empatia e Proposta de Valor
 
-......  COLOQUE AQUI O SEU TEXTO ......
+As personas elaboradas ao longo do processo de conhecimento do problema são apresentadas a seguir:
 
+Persona 1:
 
-> Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
-> mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
-> e de forma personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
->
-> **Exemplo de Proposta de Valor**
-> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
+![persona 1](images/persona1.PNG)
 
+Proposta de Valor:
+
+![proposta de valor 1](images/proposta1.PNG)
+
+Persona 2:
+
+![persona 2](images/persona2.PNG)
+
+Proposta de Valor:
+
+![proposta de valor 2](images/proposta2.PNG)
+
+Persona 3:
+
+![persona 3](images/persona3.PNG)
+
+Proposta de Valor:
+
+![proposta de valor 3](images/proposta3.PNG)
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+
+|EU COMO... `PERSONA`| QUERO/DESEJO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Vera Silveira | Comunicar de forma simples e rápida com filhos e netos. | Não ser isolada da família. |
+|Vera Silveira | Utilizar, na sua total funcionalidade, o app do banco. | Conseguir realizar suas transações sem ter que pedir ajuda a terceiros. |
+|José Carlos da Cruz |Acompanhar as principais e mais relevantes fatos que estão acontecendo no mundo através das notícias. |Se manter atualizado no que diz respeito às atualidades. |
+|José Carlos da Cruz |Baixar livros em pdf com qualidade e ter a capacidade de lê-los com facilidade. |Adaptar seu hobbie preferido ao mundo moderno e suas tecnologias. |
+|Josiane Alves |Usar apps como uber, moovit com facilidade. |Não perder tempo consultando colegas de trabalho. |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+## Requisitos do Projeto
 
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+
+
+| ID    | Descrição do Requisito  | Prioridade |
+|--------------------|---------------------------|----------------|
+|RF-01  | O principal meio de entrar no site, será por um QR code, que virá num cartão, para facilitar a entrada do usuário no site, e evitar de que o idoso tenha que pesquisar no navegador. | ALTA |
+|RF-02  | O site deve ser o mais compreensivo possível, com letras grandes e com linguagem simples, para melhor entendimento do usuário acima de 70 anos.| ALTA |
+|RF-03  | O site deve conter sempre ícones dos aplicativos que terão tutoriais, para melhor compreensão. | ALTA | 
+|RF-04| O site deve oferecer um menu simples, com opções na parte superior da tela, que permita escolher o dispositivo desejado (celular, notebook, ou TV(de inicio estes dispositivos))   | ALTA |
+|RF-05| O site deve oferecer uma barra de pesquisa para que o usuário possa pesquisar uma informação direto se não quiser acessar o Menu. | MÉDIA | 
+|RF-06| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada   | ALTA |
+|RF-07| O site deve permitir o compartilhamento dos tutoriais e instruções de uso dos apps visualizadas em plataformas de redes sociais | ALTA | 
+|RF-08| O site deve permitir salvar tutoriais preferidas, pois os usuários estão em uma faixa etária onde precisam de um uso mais simples   | ALTA |
+|RF-09| O site deve disponibilizar um tipo de assistência virtual caso a dúvida persista. | MÉDIA | 
+|RF-10| O site deve conter um ChatBot para responder as dúvidas diretas dos usuários   | BAIXA |
+|RF-11| O site deve exibir comentários abaixo da página de tutoriais, para que outros usuários possam responder seu comentário, respondendo assim eventuais dúvidas   | ALTA |
+|RF-12| O site deve conter um ChatBot para responder o usuário   | BAIXA |
 
 
 ### Requisitos não Funcionais
 
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|RNF-01| O site deve ser publicado em um ambiente acessível publicamente na Internet (Replit, GitHub Pages, Heroku) | ALTA | 
+|RNF-02| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |  MÉDIA |
+|RNF-03|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA | 
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 12/07/2023. |
+|RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.|
+|RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
 
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
+# FIZ
 # Projeto de Interface
 
 ......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
@@ -288,6 +232,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > ![Exemplo de Wireframe](images/wireframe-example.png)
 
+# FIZ
 
 # Metodologia
 
