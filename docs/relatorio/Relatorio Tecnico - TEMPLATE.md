@@ -12,12 +12,12 @@ Ciências da Computação PUC Minas
 
  Os membros do grupo são: 
 
->- André Lemos Menezes
->- Bernardo Ribeiro Godinho
->- Edson Pimenta de Almeida
->- Gustavo Vinicius Elias Souza Silva
->- Patrick Junio Pereira de Oliveira
->- Tales Rocha Moreira
+- André Lemos Menezes
+- Bernardo Ribeiro Godinho
+- Edson Pimenta de Almeida
+- Gustavo Vinicius Elias Souza Silva
+- Patrick Junio Pereira de Oliveira
+- Tales Rocha Moreira
 
 # Estrutura do Documento
 
@@ -72,15 +72,15 @@ De acordo com o que foi dito, o problema a ser solucionado com este trabalho é 
 O objetivo geral deste projeto é criar um WebApp com funcionalidades práticas que auxiliem idosos no aprendizado de novas tecnologias em aparelhos inteligentes, de forma a obter uma melhoria substancial em sua qualidade de vida.
 
 Em objetivos específicos, podemos salientar:
-> - Criar vídeos simples e fáceis de acessar para cada app e suas funcionalidades.
-> - Aplicar uma assistência virtual caso a dúvida persista. 
-> - Organizar QR codes  interativos.
-> - Demonstrar usabilidade simplificada para fácil entendimento das funcionalidades do site.
-> - Esquematizar textos grandes para facilitar a leitura de informações.
-> - Propor exercícios de aprendizado.
-> - Articular tutoriais explicando cada funcionalidade do nosso webApp.
-> - Definir login para acompanhar o progresso do aprendizado.
-> - Demonstrar conquistas para cada atividade aprendida.
+ - Criar vídeos simples e fáceis de acessar para cada app e suas funcionalidades.
+ - Aplicar uma assistência virtual caso a dúvida persista. 
+ - Organizar QR codes  interativos.
+ - Demonstrar usabilidade simplificada para fácil entendimento das funcionalidades do site.
+ - Esquematizar textos grandes para facilitar a leitura de informações.
+ - Propor exercícios de aprendizado.
+ - Articular tutoriais explicando cada funcionalidade do nosso webApp.
+ - Definir login para acompanhar o progresso do aprendizado.
+ - Demonstrar conquistas para cada atividade aprendida.
 
 ## Justificativa
 
