@@ -283,7 +283,8 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - **Concluido**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 
-O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/LupglzUz/tiaw-template e é apresentado, no estado atual, na Figura a seguir. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
+O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/skpJw0qd/tial-projeto-inclus%C3%A3o-digital-de-idosos e é apresentado, no estado atual, na Figura X. 
+
 
 ![ger](images/ger.PNG)
 
