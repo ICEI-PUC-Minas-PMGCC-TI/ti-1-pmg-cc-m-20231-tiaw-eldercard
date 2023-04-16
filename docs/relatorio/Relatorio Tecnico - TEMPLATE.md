@@ -141,7 +141,7 @@ Proposta de Valor:
 
 ## Requisitos do Projeto
 
-O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
+O alcance funcional do projeto é estabelecido através das exigências funcionais que especificam as oportunidades de interação dos utilizadores, bem como os requisitos não funcionais que descrevem as características que o sistema deverá apresentar de forma ampla. Essas exigências são exibidas abaixo.
 
 ### **Requisitos Funcionais**
 
