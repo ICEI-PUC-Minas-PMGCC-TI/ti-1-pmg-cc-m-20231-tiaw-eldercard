@@ -1,3 +1,3 @@
-# Miro
+# Desing Thinking
 
-Segue em anexo o miro
+Segue em anexo o Desing Thinking feito no Miro
