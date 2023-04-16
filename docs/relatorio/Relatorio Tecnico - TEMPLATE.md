@@ -194,7 +194,7 @@ O diagrama apresentado na Figura mostra o fluxo de interação do usuário pelas
 
 **Exemplo**:
 
-![Fluxo](images/fluxo.PNG)
+![Fluxo](images/fluxos.jpg)
 
 
 # Wireframes
