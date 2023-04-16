@@ -306,9 +306,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-----------|-------------------------|---------------|
 |Repositório de código fonte | GitHub |  https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-eldercard | 
 |Documentos do projeto | Google Docs |https://docs.google.com/document/d/1lTU36uTLjBslXGsmYWcu4YG34Ysiqnems0r0DItvpuM/edit# | 
-|Projeto de Interface e  Wireframes | MarvelApp |   https://marvelapp.com/whiteboard/69Fc23Ern06OTlcHHojQ
-https://marvelapp.com/prototype/jc62ef4
-| 
+|Projeto de Interface e  Wireframes | MarvelApp |   https://marvelapp.com/whiteboard/69Fc23Ern06OTlcHHojQ https://marvelapp.com/prototype/jc62ef4 | 
 |Gerenciamento do Projeto | Trello | https://trello.com/b/skpJw0qd/tial-projeto-inclus%C3%A3o-digital-de-idosos | 
 
 ## Gestão de código fonte
