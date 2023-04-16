@@ -37,7 +37,7 @@ Ciências da Computação PUC Minas
     - [Requisitos não Funcionais](#requisitos-não-funcionais)
   - [Restrições](#restrições)
 - [Projeto de Interface](#projeto-de-interface)
-  - [User Flow](#user-flow)
+  - [Fluxo do Usuário](#fluxo-do-usuario)
   - [Wireframes](#wireframes)
 - [Metodologia](#metodologia)
   - [Divisão de Papéis](#divisão-de-papéis)
