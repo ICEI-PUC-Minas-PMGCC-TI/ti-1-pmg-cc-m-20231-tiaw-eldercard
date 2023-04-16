@@ -186,7 +186,7 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 # Projeto de Interface
 
-Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
+Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade, o foco principal devido ao público idoso será a SIMPLICIDADE. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
 # Fluxo do Usuário
 
