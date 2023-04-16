@@ -395,8 +395,6 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
 > 
