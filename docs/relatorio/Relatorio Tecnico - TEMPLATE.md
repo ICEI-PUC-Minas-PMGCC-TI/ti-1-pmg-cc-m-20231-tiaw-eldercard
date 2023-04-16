@@ -143,7 +143,7 @@ Proposta de Valor:
 
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
-### Requisitos Funcionais
+### **Requisitos Funcionais**
 
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
@@ -164,7 +164,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-12| O site deve conter um ChatBot para responder o usuário   | BAIXA |
 
 
-### Requisitos não Funcionais
+### **Requisitos não Funcionais**
 
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
@@ -184,155 +184,129 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 |RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.|
 |RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
 
-# FIZ
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+# Fluxo do Usuário
 
-## User Flow
+O diagrama apresentado na Figura mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente [MarvelApp](https://marvelapp.com/4hd6091) do projeto.
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+**Exemplo**:
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+![Fluxo](images/fluxo.PNG)
 
 
-## Wireframes
+# Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
+- **Cabeçalho** - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
+- **Conteúdo** - apresenta o conteúdo da tela em questão;
+- **Barra lateral** - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+## Tela - Home-Page
 
-# FIZ
+A tela de home-page mostra notícias de destaque a partir da API utilizada pelo sistema. Com base na estrutura padrão, o bloco de Conteúdo traz as notícias em destaque (imagem, título, data, fonte e resumo, ícone de compartilhamento). O bloco da Barra Lateral traz três elementos distintos:
+- Componente de **pesquisa** que permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário;
+- Componente de **notícias preferidas** que leva o usuário para a tela de Notícias Preferidas;
+- Componente de **lista de categorias** que dá acesso às páginas de cada uma das seções disponibilizadas.
+
+![home](images/home.PNG)
+
+## Tela - Notícias de Categoria
+
+A tela de notícias de categoria apresenta, no Bloco de Conteúdo, as notícias referentes a uma categoria específica, escolhida pelo usuário. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+
+![not](images/not.PNG)
+
+## Tela - Resultado de Pesquisa
+
+Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele é direcionado para uma tela que traz a relação de notícias associadas ao tópico informado. Este resultado é apresentado na Figura a seguir.
+
+![res](images/res.PNG)
+
+## Tela - Leitura Notícias
+
+A tela de Leitura de Notícia apresenta, no Bloco de Conteúdo, uma notícia específica. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+
+![lei](images/lei.PNG)
+
+## Tela - Salvar Notícias Preferidas
+
+A tela que permite o salvamento de notícias preferidas é uma janela modal (surge sobre outras janelas) quando o usuário pressiona o ícone coração na tela de Leitura de Notícia. Nesta tela, a notícia a ser salva é visualizada e o usuário pode informar um tópico ou escolher entre os já cadastrados. Em seguida deve confirmar ou cancelar o salvamento. Na sequência, a tela é fechada voltando para o ambiente anterior.
+
+![salv](images/salv.PNG)
+
+## Tela - Notícias Preferidas
+
+A tela de Notícias Preferidas apresenta a relação de notícias salvas pelo usuário. Nesta tela, as notícias são separadas pelo Tópico informado pelo usuário. Os tópicos servem como uma identificação de agrupamento das notícias salvas. Ao clicar em uma notícia é disparada a tela de visualização de notícia. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+
+![pref](images/pref.PNG)
+
+## Tela - Comentários
+
+Na tela que permite ao usuário comentar uma notícia, deve-se informar o nome de quem está comentando e o texto do comentário. Esta tela é exibida na forma de uma janela modal. Em seguida, deve-se confirmar ou cancelar o salvamento do comentário. Na sequência, a tela é fechada voltando para o ambiente anterior.
+
+![comentario](images/com.PNG)
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A metodologia contempla as definições de ferramental utilizado pela equipe tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+## Gerenciamento do Projeto
 
-## Divisão de Papéis
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A equipe está organizada da seguinte maneira:
+- Scrum Master: Edson Pimenta
+- Product Owner: Tales Rocha
+- Equipe de Desenvolvimento:
+- André Lemos (Desenvolvedor Front End)
+- Edson Pimenta (Desenvolvedor Front End)
+- Bernardo  (Desenvolvedor Front End)
+- Patrick Junio Pereira (Desenvolvedor Front End)
+- Tales Rocha (Designer)
+- Gustavo Vinicius (Designer)
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
 
+- **Recursos**: esta lista mantém um template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões.
+- **Backlog**: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+- **To Do**: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+- **Test**: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito.
+- **Done**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+- **Locked**: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
 
-## Ferramentas
+O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/LupglzUz/tiaw-template e é apresentado, no estado atual, na Figura a seguir. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+![ger](images/ger.PNG)
+
+A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
+- Documentação
+- Desenvolvimento 
+- Infraestrutura
+- Testes
+- Gerência de Projetos.
+
+![dev](images/dev.PNG)
+
+## Relação de Ambientes de Trabalho
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue. 
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Repositório de código fonte | GitHub |  https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-eldercard | 
+|Documentos do projeto | Google Docs |https://docs.google.com/document/d/1lTU36uTLjBslXGsmYWcu4YG34Ysiqnems0r0DItvpuM/edit# | 
+|Projeto de Interface e  Wireframes | MarvelApp |  https://marvelapp.com/projects/my | 
+|Gerenciamento do Projeto | Trello | https://trello.com/b/skpJw0qd/tial-projeto-inclus%C3%A3o-digital-de-idosos | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+## Gestão de código fonte
 
-## Controle de Versão
+Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no **Git Feature Branch Workflow**, mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados. Uma explicação rápida sobre este processo é apresentada no site "[5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)".
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+![Exemplo de Wireframe](images/Github-Workflow.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
