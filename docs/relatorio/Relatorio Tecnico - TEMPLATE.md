@@ -274,13 +274,14 @@ A equipe está organizada da seguinte maneira:
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
 
-- **Recursos**: esta lista mantém um template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões.
-- **Backlog**: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
-- **To Do**: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
-Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
-- **Test**: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito.
-- **Done**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
-- **Locked**: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
+- **Backlog**: recebe as tarefas uma por uma, cada etapa de desenvolvimento separada, afim de serem usadas para confecção de outras etapas como o Design Thinking, Relatório Técnico.
+- **Design**: Recebe os resultados de cada passo, e possui o design(layout) do produto.
+- **Em andamento**: Recebe as tarefas que estão em execução, e não foram finalizadas.
+- **A fazer**: Tarefas que ainda não foram iniciadas e NÃO estão em andamento, mas estão planejadas para a execução.
+- **Revisão de código**:  São os algoritmos do webApp que vão para uma segunda fase voltada para testes e verificação de funcionalidade.
+- **Fase de Teste**: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas para aqui. No final das tarefas em andamento, tudo é movido para cá e testado se está funcional.
+- **Concluido**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/LupglzUz/tiaw-template e é apresentado, no estado atual, na Figura a seguir. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
 
