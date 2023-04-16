@@ -32,12 +32,12 @@ Ciências da Computação PUC Minas
 - [Especificações do Projeto](#especificações-do-projeto)
   - [Personas, Empatia e Proposta de Valor](#personas-empatia-e-proposta-de-valor)
   - [Histórias de Usuários](#histórias-de-usuários)
-  - [Requisitos](#requisitos-do-projeto)
+  - [Requisitos](#requisitos)
     - [Requisitos Funcionais](#requisitos-funcionais)
     - [Requisitos não Funcionais](#requisitos-não-funcionais)
   - [Restrições](#restrições)
 - [Projeto de Interface](#projeto-de-interface)
-  - [Fluxo do Usuário](#fluxo-do-usuario)
+  - [User Flow](#user-flow)
   - [Wireframes](#wireframes)
 - [Metodologia](#metodologia)
   - [Divisão de Papéis](#divisão-de-papéis)
@@ -213,9 +213,10 @@ A tela de home-page mostra notícias de destaque a partir da API utilizada pelo 
 
 ![home](images/home.PNG)
 
-## Tela - Notícias de Categoria
+## Tela - Escolhas de categorias
 
-A tela de notícias de categoria apresenta, no Bloco de Conteúdo, as notícias referentes a uma categoria específica, escolhida pelo usuário. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+A tela de escolhas de categoria apresenta, no Bloco de Conteúdo, as opções referentes a uma categoria específica, escolhida pelo usuário. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+
 
 ![not](images/not.PNG)
 
@@ -225,27 +226,30 @@ Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele
 
 ![res](images/res.PNG)
 
-## Tela - Leitura Notícias
+## Tela - Leitura de Conteúdo
 
-A tela de Leitura de Notícia apresenta, no Bloco de Conteúdo, uma notícia específica. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+A tela de Leitura de Conteúdo apresenta, no Bloco de Conteúdo, um tutorial específico. Não é necessário ter uma barra lateral pois não é mais preciso ter atalhos aquela altura, e atrapalharia a visibilidade do bloco de tutorial do usuário devido ao espaço, o que é péssimo para um idoso , que normalmente tem dificuldades de enxergar as letras. Caso queira ir para outro tutorial, basta acessar essa seção na barra superior do menu. 
 
 ![lei](images/lei.PNG)
 
-## Tela - Salvar Notícias Preferidas
+## Tela - Salvar Tutoriais Preferidos
 
-A tela que permite o salvamento de notícias preferidas é uma janela modal (surge sobre outras janelas) quando o usuário pressiona o ícone coração na tela de Leitura de Notícia. Nesta tela, a notícia a ser salva é visualizada e o usuário pode informar um tópico ou escolher entre os já cadastrados. Em seguida deve confirmar ou cancelar o salvamento. Na sequência, a tela é fechada voltando para o ambiente anterior.
+A tela que permite o salvamento de tutorias preferidos é uma janela modal (surge sobre outras janelas) quando o usuário pressiona o ícone coração na tela de Leitura de Notícia. Nesta tela, a notícia a ser salva é visualizada e o usuário pode informar um tópico ou escolher entre os já cadastrados. Em seguida deve confirmar ou cancelar o salvamento. Na sequência, a tela é fechada voltando para o ambiente anterior.
+
 
 ![salv](images/salv.PNG)
 
-## Tela - Notícias Preferidas
+## Tela - Tutoriais Preferidos
 
-A tela de Notícias Preferidas apresenta a relação de notícias salvas pelo usuário. Nesta tela, as notícias são separadas pelo Tópico informado pelo usuário. Os tópicos servem como uma identificação de agrupamento das notícias salvas. Ao clicar em uma notícia é disparada a tela de visualização de notícia. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+A tela de Tutoriais Preferidos apresenta a relação de tutoriais salvos pelo usuário. Nesta tela, os tutoriais são separados pelo Tópico informado pelo usuário. Os tópicos servem como um agrupamento dos tutoriais salvos. Ao clicar em uma tutorial é disparada a tela de visualização de notícia. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+
 
 ![pref](images/pref.PNG)
 
 ## Tela - Comentários
 
-Na tela que permite ao usuário comentar uma notícia, deve-se informar o nome de quem está comentando e o texto do comentário. Esta tela é exibida na forma de uma janela modal. Em seguida, deve-se confirmar ou cancelar o salvamento do comentário. Na sequência, a tela é fechada voltando para o ambiente anterior.
+Na tela que permite ao usuário comentar um tutorial, deve-se informar o nome de quem está comentando e o texto do comentário. Esta tela é exibida na forma de uma janela modal. Em seguida, deve-se confirmar ou cancelar o salvamento do comentário. Na sequência, a tela é fechada voltando para o ambiente anterior.
+
 
 ![comentario](images/com.PNG)
 
