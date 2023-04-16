@@ -286,16 +286,17 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/skpJw0qd/tial-projeto-inclus%C3%A3o-digital-de-idosos e é apresentado, no estado atual, na Figura X. 
 
 
-![ger](images/ger.PNG)
+![ger](images/trello.jpg)
 
 A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
-- Documentação
-- Desenvolvimento 
-- Infraestrutura
-- Testes
-- Gerência de Projetos.
+- Backlog
+- Elaboração e pesquisa 
+- Em andamento
+- A fazer
+- Revisão de código
+- teste
+- Concluido.
 
-![dev](images/dev.PNG)
 
 ## Relação de Ambientes de Trabalho
 
