@@ -11,7 +11,6 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciências da Computação | PUC Min
 * Patrick Junio Pereira de Oliveira
 * Tales Rocha Moreira
 
-## Professores responsáveis
+## Professore responsável
 
-* Carlos Augusto Paiva da Silva Martins
 * Rommel Vieira Carneiro
