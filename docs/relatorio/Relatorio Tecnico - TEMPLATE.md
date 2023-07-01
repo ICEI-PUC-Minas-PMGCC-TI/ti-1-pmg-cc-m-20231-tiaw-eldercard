@@ -323,7 +323,7 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 
 ## Tecnologias Utilizadas
 
-Foi utilizado no projeto o "[GitHub](github.com)"
+Foi utilizado no projeto o [GitHub](https://github.com/)
 )
 
 ......  COLOQUE AQUI O SEU TEXTO ......
