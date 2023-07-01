@@ -325,7 +325,7 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 
 Foi utilizado no projeto o [GitHub](https://github.com/) e também o [Replit](https://replit.com/~), juntamente com o [Visual Studio Code](https://code.visualstudio.com/) Utilizamos também Html, Css, Json.
 
-![ger](images/trello.jpg)
+![codigo](images/codigo.PNG)
 Utilizamos esta plataforma para colocar o 
 
 
