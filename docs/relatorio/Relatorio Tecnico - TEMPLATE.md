@@ -332,14 +332,14 @@ Utilizamos a plataforma Visual Studio Code para tirar o nosso projeto do papel e
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Tecnologias Envolvidas
+## Tecnologias Envolvidas
 
-> Linguagem de Programação: JavaScript, HTML5 e CSS3 serão utilizados para desenvolver a interface do usuário.
-> Framework: Bootstrap.
-> Serviço Web: Replit.
-> Banco de Dados: LocalStorage utilizado para armazenar os dados dos usuários e das interações do usuário.
-> IDE de Desenvolvimento: Visual Studio Code foi utilizado como ambiente de desenvolvimento integrado.
-> Ferramentas Adicionais: GitHub.
+Linguagem de Programação: JavaScript, HTML5 e CSS3 serão utilizados para desenvolver a interface do usuário.
+Framework: Bootstrap.
+Serviço Web: Replit.
+Banco de Dados: LocalStorage utilizado para armazenar os dados dos usuários e das interações do usuário.
+IDE de Desenvolvimento: Visual Studio Code foi utilizado como ambiente de desenvolvimento integrado.
+Ferramentas Adicionais: GitHub.
 > 
 > Apresente também uma figura explicando como as tecnologias estão
 > relacionadas ou como uma interação do usuário com o sistema vai ser
