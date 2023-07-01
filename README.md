@@ -4,7 +4,6 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciências da Computação | PUC Min
 
 ## Alunos integrantes da equipe
 
-* André Lemos Menezes
 * Bernardo Ribeiro Godinho
 * Edson Pimenta de Almeida
 * Gustavo Vinicius Elias Souza Silva
