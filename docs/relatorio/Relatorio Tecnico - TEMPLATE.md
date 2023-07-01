@@ -323,7 +323,7 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 
 ## Tecnologias Utilizadas
 
-Foi utilizado no projeto o [GitHub](https://github.com/) e também o [Replit](https://replit.com/~) juntamente com o [Visual Studio Code(https://code.visualstudio.com/)
+Foi utilizado no projeto o [GitHub](https://github.com/) e também o [Replit](https://replit.com/~) juntamente com o [Visual Studio Code](https://code.visualstudio.com/)
 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
