@@ -400,7 +400,7 @@ Utilizamos a plataforma Visual Studio Code para tirar o nosso projeto do papel e
 
 
 # Referências
--[Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Replit](https://replit.com/~)
 - [Google Docs](https://docs.google.com/)
 - [Trello](https://trello.com/pt-BR)
