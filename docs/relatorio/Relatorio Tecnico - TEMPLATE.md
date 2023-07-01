@@ -326,7 +326,8 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 Foi utilizado no projeto o [GitHub](https://github.com/) e também o [Replit](https://replit.com/~), juntamente com o [Visual Studio Code](https://code.visualstudio.com/) Utilizamos também Html, Css, Json.
 
 ![codigo](images/codigo.PNG)
-Utilizamos esta plataforma para colocar o 
+
+Utilizamos a plataforma Visual Studio Code para tirar o nosso projeto do papel e colocá-lo em prática. Para termos acesso ao site que estamos criando, utilizamos a extensão Live Server, que nos possibilita ver em tempo real o que estamos fazendo, podendo ter qualquer formação alterada a qualquer momento.
 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
