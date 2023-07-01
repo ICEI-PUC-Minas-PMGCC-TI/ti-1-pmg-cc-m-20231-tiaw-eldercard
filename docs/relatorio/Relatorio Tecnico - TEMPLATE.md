@@ -12,7 +12,6 @@ Ciências da Computação PUC Minas
 
  Os membros do grupo são: 
 
-- André Lemos Menezes
 - Bernardo Ribeiro Godinho
 - Edson Pimenta de Almeida
 - Gustavo Vinicius Elias Souza Silva
@@ -265,7 +264,6 @@ A equipe está organizada da seguinte maneira:
 - Scrum Master: Edson Pimenta
 - Product Owner: Tales Rocha
 - Equipe de Desenvolvimento:
-- André Lemos (Desenvolvedor Front End)
 - Edson Pimenta (Desenvolvedor Front End)
 - Bernardo  (Desenvolvedor Front End)
 - Patrick Junio Pereira (Desenvolvedor Front End)
