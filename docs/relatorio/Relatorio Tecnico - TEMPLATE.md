@@ -400,14 +400,8 @@ Utilizamos a plataforma Visual Studio Code para tirar o nosso projeto do papel e
 
 
 # Referências
-
-> Littlefield, A. Guia da metodologia ágil e scrum para iniciantes. 2016. Disponível em: https://blog.trello.com/br/scrum-metodologia-agil. Acessado em 26/05/2020.
-- RAYMUNDO, T. M. Aceitação de tecnologias por idosos. 2013. 89 f. Dissertação (Mestrado) – Escola de Engenharia de São Carlos/Faculdade de Medicina de Ribeirão Preto/Instituto de Química de São Carlos, Universidade de São Paulo, São Paulo,2013.Disponível em:https://www.teses.usp.br/teses/disponiveis/82/82131/tde-27062013-145322/publico/TDE_TaiuaniMarquineRaymundo.pdf. Acessado em 12/04/2023.
-- https://www5.usp.br/noticias/especial-2/pesquisa-tenta-entender-a-complicada-relacao-entre-idosos-e-tecnologia/. Acessado em 12/04/2023.
-- https://trello.com/pt-BR
-- https://marvelapp.com/
-
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+-[Visual Studio Code](https://code.visualstudio.com/)
+- [Replit](https://replit.com/~)
+- [Google Docs](https://docs.google.com/)
+- [Trello](https://trello.com/pt-BR)
+- [MarvelApp](https://marvelapp.com/)
