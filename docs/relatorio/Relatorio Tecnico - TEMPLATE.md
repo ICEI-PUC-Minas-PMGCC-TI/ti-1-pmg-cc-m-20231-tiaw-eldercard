@@ -31,7 +31,7 @@ Ciências da Computação PUC Minas
 - [Especificações do Projeto](#especificações-do-projeto)
   - [Personas, Empatia e Proposta de Valor](#personas-empatia-e-proposta-de-valor)
   - [Histórias de Usuários](#histórias-de-usuários)
-  - [Requisitos](#requisitos)
+  - [Requisitos](#requisitos-do-projeto)
     - [Requisitos Funcionais](#requisitos-funcionais)
     - [Requisitos não Funcionais](#requisitos-não-funcionais)
   - [Restrições](#restrições)
