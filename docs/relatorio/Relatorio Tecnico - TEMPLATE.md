@@ -319,9 +319,12 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 ## Tecnologias Utilizadas
+
+Foi utilizado no projeto o "[GitHub](![Uploading image.png…](github.com)"
+)
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
