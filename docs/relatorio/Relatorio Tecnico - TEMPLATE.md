@@ -41,7 +41,7 @@ Ciências da Computação PUC Minas
 - [Metodologia](#metodologia)
   - [Gerenciamento do Projeto](#gerenciamento-do-projeto)
   - [Relação de Ambientes de Trabalho](#relação-de-ambientes-de-trabalho)
-  - [Controle de Versão](#controle-de-versão)
+  - [Gestão de Código Fonte](#gestão-de-código-fonte)
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
