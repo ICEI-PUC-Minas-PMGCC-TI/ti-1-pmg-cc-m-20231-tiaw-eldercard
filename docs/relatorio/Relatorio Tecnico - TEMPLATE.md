@@ -40,7 +40,7 @@ Ciências da Computação PUC Minas
   - [Wireframes](#wireframes)
 - [Metodologia](#metodologia)
   - [Gerenciamento do Projeto](#gerenciamento-do-projeto)
-  - [Ferramentas](#ferramentas)
+  - [Relação de Ambientes de Trabalho](#relação-de-ambientes-de-trabalho)
   - [Controle de Versão](#controle-de-versão)
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
