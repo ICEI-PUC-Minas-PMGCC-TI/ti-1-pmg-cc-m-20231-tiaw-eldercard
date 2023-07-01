@@ -263,7 +263,8 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 A equipe está organizada da seguinte maneira:
 - Scrum Master: Edson Pimenta
 - Product Owner: Tales Rocha
-- Equipe de Desenvolvimento:
+
+  Equipe de Desenvolvimento:
 - Edson Pimenta (Desenvolvedor Front End)
 - Bernardo  (Desenvolvedor Front End)
 - Patrick Junio Pereira (Desenvolvedor Front End)
