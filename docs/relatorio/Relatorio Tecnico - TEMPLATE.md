@@ -261,10 +261,10 @@ A metodologia contempla as definições de ferramental utilizado pela equipe tan
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
-- Scrum Master: Edson Pimenta
-- Product Owner: Tales Rocha
+- **Scrum Master**: Edson Pimenta
+- **Product Owner**: Tales Rocha
 
-  Equipe de Desenvolvimento:
+  **Equipe de Desenvolvimento**:
 - Edson Pimenta (Desenvolvedor Front End)
 - Bernardo  (Desenvolvedor Front End)
 - Patrick Junio Pereira (Desenvolvedor Front End)
