@@ -39,7 +39,7 @@ Ciências da Computação PUC Minas
   - [Fluxo do Usuário](#fluxo-do-usuário)
   - [Wireframes](#wireframes)
 - [Metodologia](#metodologia)
-  - [Gerencianto do Projeto](#gerenciamento-do-projeto)
+  - [Gerenciamento do Projeto](#gerenciamento-do-projeto)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
