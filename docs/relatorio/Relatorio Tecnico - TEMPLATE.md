@@ -268,8 +268,8 @@ A equipe está organizada da seguinte maneira:
 - Edson Pimenta (Desenvolvedor Front End)
 - Bernardo  (Desenvolvedor Front End)
 - Patrick Junio Pereira (Desenvolvedor Front End)
-- Tales Rocha (Designer)
 - Gustavo Vinicius (Designer)
+- Tales Rocha (Designer)
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
 
