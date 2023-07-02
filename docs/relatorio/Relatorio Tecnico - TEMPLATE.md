@@ -368,17 +368,38 @@ Em nosso projeto, utilizamos a arquitetura web tradicional, que é baseada em m�
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1. Cenário: Cadastramento de exercícios
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+- Funcionalidade: Capacidade de inserir e categorizar diferentes tipos de exercícios físicos e mentais.
+
+- Grupo de usuários: Idosos que estão aprendendo a usar tecnologia e que desejam manter um registro de seus exercícios.
+
+- Ferramentas utilizadas: Aplicativo ElderCard em um emulador de dispositivo móvel ou navegador web, ferramentas de automação de testes.
+
+2. Cenário: Resolução de exercícios
+
+- Funcionalidade: Permitir que os usuários resolvam os exercícios registrados e rastreiem seu progresso ao longo do tempo.
+
+- Grupo de usuários: Idosos que estão aprendendo a usar tecnologia e desejam melhorar suas habilidades cognitivas e físicas por meio de exercícios.
+
+- Ferramentas utilizadas: Aplicativo ElderCard em um emulador de dispositivo móvel ou navegador web, ferramentas de automação de testes.
+
+3. Cenário: Escolha de tema dos vídeos
+
+- Funcionalidade: Fornecer uma variedade de temas de vídeo para os usuários escolherem, ajudando-os a aprender e se envolver com diferentes tópicos.
+
+- Grupo de usuários: Idosos que desejam aprender sobre diversos tópicos e melhorar suas habilidades tecnológicas.
+
+- Ferramentas utilizadas: Aplicativo ElderCard em um emulador de dispositivo móvel ou navegador web, ferramentas de automação de testes.
+
+4. Cenário: Visualização dos vídeos
+
+- Funcionalidade: Permitir que os usuários visualizem vídeos selecionados de acordo com seus temas de interesse.
+
+- Grupo de usuários: Idosos que estão se familiarizando com a tecnologia e desejam aprender e se entreter por meio de vídeos.
+
+- Ferramentas utilizadas: Aplicativo ElderCard em um emulador de dispositivo móvel ou navegador web, ferramentas de automação de testes.
+
 
 ## Ferramentas de Testes (Opcional)
 
