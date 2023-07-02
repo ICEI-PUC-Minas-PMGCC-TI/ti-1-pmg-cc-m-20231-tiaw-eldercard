@@ -357,17 +357,13 @@ Em nosso projeto, utilizamos a arquitetura web tradicional, que é baseada em m�
 
 > ![Exemplo de Arquitetura](images/arquitetura_site.png)
 
-
-)
-
-
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1. Cadastramento de exercícios.
+2. Resolução de exercícios.
+3. Escolha de tema dos vídeos.
+4. Visualização dos videos. 
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
 ## Plano de Testes
 
