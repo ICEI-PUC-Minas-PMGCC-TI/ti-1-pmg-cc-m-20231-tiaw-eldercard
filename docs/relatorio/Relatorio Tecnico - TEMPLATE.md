@@ -442,3 +442,4 @@ Em nosso projeto, utilizamos a arquitetura web tradicional, que √© baseada em m√
 - [Google Docs](https://docs.google.com/)
 - [Trello](https://trello.com/pt-BR)
 - [MarvelApp](https://marvelapp.com/)
+- [GitHub](https://github.com/)
