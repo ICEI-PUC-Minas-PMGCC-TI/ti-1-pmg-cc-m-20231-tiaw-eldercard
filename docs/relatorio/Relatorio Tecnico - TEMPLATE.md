@@ -333,22 +333,23 @@ Utilizamos a plataforma Visual Studio Code para tirar o nosso projeto do papel e
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Tecnologias Envolvidas
-
-- Linguagem de Programação: JavaScript, HTML5 e CSS3 serão utilizados para desenvolver a interface do usuário.
+- Linguagem de Marcação: HTML.
+- Linguagem de Estilo: CSS.
+- Linguagem de Programação: JavaScript.
 - Framework: Bootstrap.
 - Serviço Web: Replit.
 - Banco de Dados: LocalStorage utilizado para armazenar os dados dos usuários e das interações do usuário.
 - IDE de Desenvolvimento: Visual Studio Code foi utilizado como ambiente de desenvolvimento integrado.
 - Ferramentas Adicionais: GitHub.
-> 
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+
+O usuário abre o site no navegador.
+Na página index.html, o usuário pode escolher entre ir para a página de exercícios ou assisitr vídeos de aprendizado sobre o assunto desejado.
+Se o usuário clicar em um dos assuntos, será redirecionado à página de vídeos, onde poderá assiti-los para estudar sobre um assunto específico.
+Se o usuário clicar em exercícios, este irá visualizar os exercícios disponíveis.
+Se o usuário clicar em iniciar exercício, o exercicio será iniciado e este terá a opção de escolher entre 4 alternativas, para tentar acertar a questão.
+Existe a página do administrador para cadastro de vídeos, que fica ligada por um botão à página de vídeos.
+Existe a página do administrador para cadastro de exercícios, que fica ligada por meio de um botão à página de exercícios. 
+
 
 ## Arquitetura da solução
 
