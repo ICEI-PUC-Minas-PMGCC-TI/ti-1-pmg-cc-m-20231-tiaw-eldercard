@@ -342,6 +342,7 @@ Utilizamos a plataforma Visual Studio Code para tirar o nosso projeto do papel e
 - IDE de Desenvolvimento: Visual Studio Code foi utilizado como ambiente de desenvolvimento integrado.
 - Ferramentas Adicionais: GitHub.
 
+# Possíveis caminhos para o usuário.
 - O usuário abre o site no navegador.
 - Na página index.html, o usuário pode escolher entre ir para a página de exercícios ou assisitr vídeos de aprendizado sobre o assunto desejado.
 - Se o usuário clicar em um dos assuntos, será redirecionado à página de vídeos, onde poderá assiti-los para estudar sobre um assunto específico.
