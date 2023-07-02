@@ -413,12 +413,37 @@ Em nosso projeto, utilizamos a arquitetura web tradicional, que é baseada em m�
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1. Cadastramento de exercícios:
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+- Pontos fortes: Os administradores conseguem inserir e categorizar diferentes tipos de exercícios de forma fácil e intuitiva. As funcionalidades de adicionar, editar e excluir exercícios funcionam corretamente.
+
+- Pontos fracos: Pode haver dificuldades para alguns administradores ao inserir exercícios, especialmente se não estiverem familiarizados com a interface.
+
+- Melhorias futuras: Realizar testes de usabilidade adicionais com os administradores para identificar pontos problemáticos específicos. Ajustar a interface do usuário para facilitar a inserção de exercícios, considerando elementos de entrada simplificados.
+
+2. Resolução de exercícios:
+
+- Pontos fortes: Os usuários conseguem resolver os exercícios disponibilizados de forma clara e direta.
+
+- Pontos fracos: Alguns usuários podem ter dificuldades em entender como resolver os exercícios ou podem sentir falta de feedback imediato sobre seu desempenho.
+
+- Melhorias futuras: Aprimorar as instruções fornecidas durante o processo de resolução dos exercícios, tornando-as mais claras ou oferecendo dicas adicionais. Adicionar feedback imediato para ajudar os usuários a entenderem como estão se saindo.
+
+3. Escolha de tema dos vídeos:
+
+- Pontos fortes: A plataforma oferece uma variedade de temas de vídeo para os usuários escolherem, facilitando o aprendizado e o engajamento com diferentes tópicos.
+
+- Pontos fracos: Alguns usuários podem ter dificuldades em navegar pela variedade de temas ou podem sentir falta de recursos de busca ou categorização mais eficientes.
+
+- Melhorias futuras: Realizar testes de usabilidade para entender as dificuldades encontradas pelos usuários na escolha de temas de vídeo. Adicionar recursos de busca ou categorização mais eficientes para facilitar a escolha dos usuários.
+
+4. Visualização dos vídeos:
+
+- Pontos fortes: Os usuários conseguem visualizar vídeos de forma eficaz, e a qualidade de reprodução é consistente.
+
+- Pontos fracos: Alguns usuários podem ter dificuldades com o controle de reprodução de vídeo, como pausar, retomar ou avançar o vídeo.
+
+- Melhorias futuras: Realizar testes de usabilidade para entender as dificuldades encontradas pelos usuários na visualização dos vídeos. Simplificar e aumentar o tamanho dos controles de reprodução para facilitar a interação dos usuários, especialmente os idosos.
 
 
 # Referências
