@@ -401,16 +401,6 @@ Em nosso projeto, utilizamos a arquitetura web tradicional, que é baseada em m�
 - Ferramentas utilizadas: Aplicativo ElderCard em um emulador de dispositivo móvel ou navegador web, ferramentas de automação de testes.
 
 
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
 ## Registros de Testes
 
 1. Cadastramento de exercícios:
