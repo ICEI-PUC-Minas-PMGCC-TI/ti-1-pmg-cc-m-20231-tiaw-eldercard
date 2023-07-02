@@ -355,7 +355,7 @@ Existe a página do administrador para cadastro de exercícios, que fica ligada 
 
 Em nosso projeto, utilizamos a arquitetura web tradicional, que é baseada em múltiplas páginas. Esta abordagem consiste em várias páginas HTML separadas, cada uma com seus próprios recursos associados como CSS e JavaScript. Cada ação do usuário, como clicar em um link ou preencher um formulário, envia uma solicitação para o servidor que, em seguida, processa a solicitação e retorna uma nova página HTML completa. Esta arquitetura permite uma separação clara entre as diferentes partes do nosso site, com cada página funcionando como uma entidade autônoma.
 
-> ![Exemplo de Arquitetura](arquitetura_site.png)
+> ![Exemplo de Arquitetura](images/arquitetura_site.png)
 
 
 )
